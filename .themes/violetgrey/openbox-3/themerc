@@ -1,0 +1,108 @@
+! VioletGRAY (vermaden)
+! ---------------------
+! based on Onyx-Citrus (Dana Jansens)
+! based on Carbon (p0ng)
+! based on Vorta (bl1nks)
+
+! other settings
+border.width:                 1
+padding.width:                2
+window.handle.width:          0
+window.client.padding.width:  1
+window.client.padding.height: 1
+
+! menu settings
+menu.separator.padding.width:  0
+menu.separator.padding.height: 1
+menu.separator.color:          #dddddd
+menu.separator.width:          0
+menu.border.color:             #333333
+menu.border.width:             1
+menu.overlap.x:                -2
+menu.overlap.y:                0
+
+! menu text / background
+menu.items.bg:                  flat solid
+menu.items.bg.color:            #404040
+menu.items.bg.colorTo:          #404040
+menu.items.text.color:          #cccccc
+menu.items.disabled.text.color: #777777
+menu.items.justify:             left
+menu.items.font:                shadow=y:shadowtint=60
+
+! menu headers
+menu.title.bg:           flat splitvertical gradient
+menu.title.bg.color:     #ffffff
+menu.title.bg.colorTo:   #eeeeee
+menu.title.text.color:   #5500cc
+menu.title.text.justify: left
+menu.title.text.font:    shadow=y:shadowtint=15
+
+! selected menu item
+menu.items.active.bg:         flat splitvertical gradient
+menu.items.active.bg.color:   #8833ff
+menu.items.active.bg.colorTo: #8228f2
+menu.items.active.text.color: white
+
+! window titlebar
+window.active.title.bg:           flat gradient splitvertical
+window.active.title.bg.color:     #ffffff
+window.active.title.bg.colorTo:   #eeeeee
+window.inactive.title.bg:         flat gradient vertical
+window.inactive.title.bg.color:   #cccccc
+window.inactive.title.bg.colorTo: #bbbbbb
+
+! window titlebar text
+window.active.label.bg:           parentrelative
+window.active.label.text.color:   #5500cc
+window.active.label.text.font:    shadow=y:shadowtint=15
+window.inactive.label.bg:         parentrelative
+window.inactive.label.text.color: #666666
+window.inactive.label.text.font:  shadow=y:shadowtint=10
+window.label.text.justify:        center
+
+! window buttons
+window.*.button.*.bg:                        parentrelative
+window.*.button.*.pressed.bg:                flat splitvertical gradient border
+window.active.button.*.image.color:          #8833ff
+window.active.button.disabled.image.color:   #cccccc
+window.inactive.button.*.image.color:        #777777
+window.inactive.button.disabled.image.color: #aaaaaa
+
+! window buttons hover
+window.active.button.*.hover.bg:                flat splitvertical gradient border
+window.active.button.*.hover.bg.color:          #aaaaaa
+window.active.button.*.hover.bg.colorTo:        #aaaaaa
+window.active.button.*.hover.bg.border.color:   #444444
+window.inactive.button.*.hover.bg:              flat splitvertical gradient border
+window.inactive.button.*.hover.bg.color:        #999999
+window.inactive.button.*.hover.bg.colorTo:      #999999
+window.inactive.button.*.hover.bg.border.color: #666666
+
+! window buttons pressed
+window.active.button.*.pressed.bg.color:        #777777
+window.active.button.*.pressed.bg.colorTo:      #777777
+window.active.button.*.pressed.image.color:     #eeeeee
+window.active.button.*.pressed.bg.border.color: #cccccc
+
+! window borders
+window.active.border.color:            #333333
+window.active.title.separator.color:   #ffffff
+window.active.client.color:            #ffffff
+window.inactive.border.color:          #777777
+window.inactive.title.separator.color: #bbbbbb
+window.inactive.client.color:          #bbbbbb
+
+! on-screen displays
+osd.bg:                   flat vertical gradient
+osd.bg.color:             #ffffff
+osd.bg.colorTo:           #eeeeee
+osd.border.width:         1
+osd.border.color:         #777777
+osd.label.text.color:     #5500cc
+osd.hilight.bg:           flat vertical gradient
+osd.hilight.bg.color:     #8833ff
+osd.hilight.bg.colorTo:   #6611dd
+osd.unhilight.bg:         flat vertical gradient
+osd.unhilight.bg.color:   #bbbbbb
+osd.unhilight.bg.colorTo: #aaaaaa

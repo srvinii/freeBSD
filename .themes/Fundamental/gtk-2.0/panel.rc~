@@ -1,0 +1,83 @@
+################################################
+# PANELS
+################################################
+
+# If you want light panel, remove '#' in line 12 and 30
+
+style "theme-panel"
+{
+
+#/*
+	bg[NORMAL]	= @panel_bg
+	bg[PRELIGHT]	= shade (0.6, @selected_bg_color)
+	bg[ACTIVE]	= shade (0.8, @panel_bg)
+	bg[SELECTED]	= shade (0.8, @panel_bg)
+	bg[INSENSITIVE]	= @panel_bg
+
+	fg[NORMAL]	= shade (0.6, @selected_fg_color)
+	fg[PRELIGHT]	= @selected_fg_color
+	fg[ACTIVE]	= shade (0.84, @selected_fg_color)
+	fg[SELECTED]	= shade (0.84, @selected_fg_color)
+	fg[INSENSITIVE]	= shade (0.35, @selected_fg_color)
+
+	text[NORMAL]		= shade (0.6, @selected_fg_color)
+	text[PRELIGHT]		= @selected_fg_color
+	text[ACTIVE]		= shade (0.84, @selected_fg_color)
+	text[SELECTED]		= shade (0.84, @selected_fg_color)
+	text[INSENSITIVE]	= shade (0.35, @selected_fg_color)
+#*/
+
+	engine "murrine"
+	{
+		contrast            = 0.8   # 0.8 for less contrast, more than 1.0 for more contrast on borders
+		focus_color         = @selected_bg_color
+		glazestyle          = 0     # 0 = flat, 1 = curved, 2 = concave, 3 = top-curved, 4 = beryl
+		glow_shade          = 1.0  # sets glow amount for buttons or widgets
+		glowstyle           = 0    # 0 = top, 1 = bottom, 2 = top and bottom, 3 = center (vertical), 4 = center (horizontal) 
+		gradient_shades     = {1.1,1.02,1.02,0.94} # default: {1.1,1.0,1.0,1.1}
+		gradient_colors	    = FALSE # {"#ffffff","#ffffff","#ffffff","#ffffff"}
+		highlight_shade     = 1.00  # set highlight amount for buttons or widgets
+		lightborder_shade   = 1.2   # sets lightborder amount for buttons or widgets
+		lightborderstyle    = 1     # 0 = lightborder on top side, 1 = lightborder on all sides
+		reliefstyle	    = 1     # 0 = flat, 1 = inset, 2 = shadow, 3 = gradient on shadow, 4 = strong shadow
+		roundness           = 0     # 0 = squared, 1 = old default, more will increase roundness
+		arrowstyle	    = 0	    # 0 = old default, 1 = filled arrow
+		border_shades	    = {1.0,1.0}	   # gradient on the border
+		border_colors	    = FALSE # {"#ffffff","#ffffff"}
+		#shadow_shades	    = {1.0,1.0}	   # gradient of shadows (only if reliefstyle = 3)
+		textstyle	    = 1	   # 1 = draw an inset on the text (use carefully)
+	}
+}
+
+style "theme-panel-light"
+{
+	fg[NORMAL]	= shade (0.5, @base_color)
+}
+
+# Panel settings. Do not change.
+widget "*PanelWidget*"		style "theme-panel"
+widget "*PanelApplet*"		style "theme-panel"
+widget "*fast-user-switch*"	style "theme-panel"
+widget "*gdm-user-switch*"	style "theme-panel"
+widget "*CPUFreq*Applet*"	style "theme-panel"
+widget "*indicator-applet*"	style "theme-panel"
+class "PanelApp*"		style "theme-panel"
+class "PanelToplevel*"		style "theme-panel"
+widget_class "*PanelToplevel*"	style "theme-panel"
+#widget_class "*Mail*"		style "theme-panel" # Disabled to fix Evolution bug.
+#class "*Panel*"		style "theme-panel" # Disabled to fix bug.
+widget_class "*notif*"		style "theme-panel"
+widget_class "*Notif*"		style "theme-panel"
+widget_class "*Tray*"		style "theme-panel" 
+widget_class "*tray*"		style "theme-panel"
+widget_class "*computertemp*"	style "theme-panel"
+widget_class "*Applet*Tomboy*"	style "theme-panel"
+widget_class "*Applet*Netstatus*"	style "theme-panel"
+
+# Fixes for tooltip text in some apps.
+widget_class "*Notif*Beagle*"	style "theme-panel-light"
+widget_class "*Notif*Brasero*"	style "theme-panel-light"
+
+# XFCE panel theming.
+widget "*Xfce*Panel*"		style "theme-panel"
+class "*Xfce*Panel*"		style "theme-panel"

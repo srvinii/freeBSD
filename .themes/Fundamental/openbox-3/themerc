@@ -1,0 +1,98 @@
+# Theme: Fundamental
+# Author: weakhead <http://weakhead.deviantart.com>
+# License: GPL
+
+#openbox themerc edited with obtheme
+border.color: #242527
+border.width: 1
+menu.items.active.bg: Gradient Vertical Flat
+menu.items.active.bg.color: #9DAFBF
+menu.items.active.bg.colorTo: #8D9DAC
+menu.items.active.disabled.text.color: #000000
+menu.items.active.text.color: #FFFFFF
+menu.items.bg: Solid Flat
+menu.items.bg.color: #E3E3E3
+menu.items.disabled.text.color: #B8B8B8
+menu.items.text.color: #545454
+menu.overlap: -2
+menu.overlap.y: 0
+menu.separator.padding.height: 3
+menu.title.bg: Gradient Vertical Raised
+menu.title.bg.color: #4C4C4C
+menu.title.bg.colorTo: #3B3B3B
+menu.title.bg.shadow: 16
+menu.title.bg.highlight: 64
+menu.title.bg.border.color: #242527
+menu.title.text.color: #D7D7D7
+menu.title.text.font: shadow=y:shadowtint=50:shadowoffset=1
+menu.title.text.justify: Center
+osd.hilight.bg: Gradient Vertical Flat
+osd.hilight.bg.color: #B2BFCA
+osd.hilight.bg.colorTo: #8D9DAC
+osd.label.text.color: #D7D7D7
+osd.label.text.font: shadow=y:shadowtint=50:shadowoffset=1
+osd.unhilight.bg: Gradient Vertical Sunken
+osd.unhilight.bg.color: #4B4B4B
+osd.unhilight.bg.colorTo: #393939
+osd.unhilight.bg.shadow: 16
+osd.unhilight.bg.highlight: 32
+osd.unhilight.bg.border.color: #000000
+padding.height: 1
+padding.width: 2
+window.active.button.disabled.bg: Parentrelative
+window.active.button.disabled.image.color: #595959
+window.active.button.hover.image.color: #8EA1B2
+window.active.button.pressed.bg: ParentRelative Flat
+window.active.button.pressed.image.color: #636B73
+window.active.button.toggled.hover.image.color: #8EA1B2
+window.active.button.toggled.image.color: #FFFFFF
+window.active.button.toggled.unpressed.image.color: #D7D7D7
+window.active.button.unpressed.bg: ParentRelative Flat
+window.active.button.unpressed.image.color: #D7D7D7
+window.active.grip.bg: Gradient Vertical Flat
+window.active.grip.bg.color: #4B4B4B
+window.active.grip.bg.colorTo: #393939
+window.active.handle.bg: Gradient Vertical Flat
+window.active.handle.bg.color: #4B4B4B
+window.active.handle.bg.colorTo: #393939
+window.active.label.bg: Parentrelative
+window.active.label.text.color: #D7D7D7
+window.active.label.text.font: shadow=y:shadowtint=50:shadowoffset=1
+window.active.title.bg: Gradient Vertical Raised
+window.active.title.bg.color: #4C4C4C
+window.active.title.bg.colorTo: #3B3B3B
+window.active.title.bg.shadow: 16
+window.active.title.bg.highlight: 64
+window.active.title.bg.border.color: #000000
+window.active.title.separator.color: #2E2E2E
+window.client.padding.width: 0
+window.handle.width: 2
+window.inactive.button.disabled.bg: Parentrelative
+window.inactive.button.disabled.image.color: #4C4C4C
+window.inactive.button.hover.image.color: #8EA1B2
+window.inactive.button.pressed.bg: Parentrelative
+window.inactive.button.pressed.image.color: #636B73
+window.inactive.button.toggled.bg: Parentrelative
+window.inactive.button.toggled.bg.color: #686868
+window.inactive.button.toggled.hover.image.color: #8EA1B2
+window.inactive.button.toggled.image.color: #414140
+window.inactive.button.toggled.unpressed.image.color: #666666
+window.inactive.button.unpressed.bg: Parentrelative
+window.inactive.button.unpressed.image.color: #666666
+window.inactive.grip.bg: Gradient Vertical Flat
+window.inactive.grip.bg.color: #4B4B4B
+window.inactive.grip.bg.colorTo: #393939
+window.inactive.handle.bg: Gradient Vertical Flat
+window.inactive.handle.bg.color: #4B4B4B
+window.inactive.handle.bg.colorTo: #393939
+window.inactive.label.bg: Parentrelative
+window.inactive.label.text.color: #666666
+window.inactive.label.text.font: shadow=y:shadowtint=50:shadowoffset=1
+window.inactive.title.bg: Gradient Vertical Raised
+window.inactive.title.bg.color: #4C4C4C
+window.inactive.title.bg.colorTo: #3B3B3B
+window.inactive.title.bg.shadow: 16
+window.inactive.title.bg.highlight: 64
+window.inactive.title.bg.border.color: #000000
+window.inactive.title.separator.color: #2E2E2E
+window.label.text.justify: Left
