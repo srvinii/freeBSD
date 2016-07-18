@@ -5,3 +5,8 @@
 ### This file contains:
 
 * .config
+* .fonts
+* .themes
+* .bashrc
+* .conkynet
+* .meuconky
