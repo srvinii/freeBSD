@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openbox_menu>
+	<menu id="root-menu" label="openbox³">
+		<item label="Run...">
+			<action name="Execute">
+				<execute>gmrun</execute>
+			</action>
+		</item>
+		<separator/>
+		<item label="Terminal">
+			<action name="Execute">
+				<execute>urxvt</execute>
+			</action>
+		</item>
+		<item label="Browser">
+			<action name="Execute">
+				<execute>chromium</execute>
+			</action>
+		</item>
+		<item label="File Manager">
+			<action name="Execute">
+				<execute>pcmanfm</execute>
+			</action>
+		</item>
+		<item label="Editor">
+			<action name="Execute">
+				<execute>leafpad</execute>
+			</action>
+		</item>
+		<separator/>
+		<menu id="apps" label="Applications">
+			<menu id="app" label="Accessories">
+				<menu id="scrot" label="Scrot">
+					<item label="Now">
+						<action name="Execute">
+							<execute>scrot -q 100 -e 'mv $f ~/Imagens/shots/'</execute>
+						</action>
+					</item>
+					<item label="In 5 sec">
+						<action name="Execute">
+							<execute>scrot -q 100 -d 5 -e 'mv $f ~/Imagens/shots/'</execute>
+						</action>
+					</item>
+					<item label="In 10 sec">
+						<action name="Execute">
+							<execute>scrot -q 100 -d 10 -e 'mv $f ~/Imagens/shots/'</execute>
+						</action>
+					</item>
+				</menu>
+				<item label="Vim">
+					<action name="Execute">
+						<execute>urxvt -e vim</execute>
+					</action>
+				</item>
+				<item label="Engrampa">
+					<action name="Execute">
+						<execute>engrampa</execute>
+					</action>
+				</item>
+				<item label="ePDFView">
+					<action name="Execute">
+						<execute>epdfview</execute>
+					</action>
+				</item>
+				<item label="GParted">
+					<action name="Execute">
+						<execute>gksu gparted</execute>
+					</action>
+				</item>
+				<item label="Gimp">
+					<action name="Execute">
+						<execute>gimp</execute>
+					</action>
+				</item>
+				<item label="Nitrogen">
+					<action name="Execute">
+						<execute>nitrogen</execute>
+					</action>
+				</item>
+				<item label="Xfburn">
+					<action name="Execute">
+						<execute>xfburn</execute>
+					</action>
+				</item>
+			</menu>
+			<menu id="interwebs" label="Internet">
+				<item label="Chromium">
+					<action name="Execute">
+						<execute>chromium</execute>
+					</action>
+				</item>
+				<item label="Opera">
+					<action name="Execute">
+						<execute>opera</execute>
+					</action>
+				</item>
+				<item label="Telegram">
+					<action name="Execute">
+						<execute>telegram-desktop</execute>
+					</action>
+				</item>
+				<item label="qBittorrent">
+					<action name="Execute">
+						<execute>qbittorrent</execute>
+					</action>
+				</item>
+				<item label="Xchat">
+					<action name="Execute">
+						<execute>xchat</execute>
+					</action>
+				</item>
+			</menu>
+			<menu id="dev" label="Programming">
+				<item label="Codeblocks">
+					<action name="Execute">
+						<execute>codeblocks</execute>
+					</action>
+				</item>
+				<item label="GDB">
+					<action name="Execute">
+						<execute>urxvt -e gdb</execute>
+					</action>
+				</item>
+				<item label="Geany">
+					<action name="Execute">
+						<execute>geany</execute>
+					</action>
+				</item>
+			</menu>
+			<menu id="multimedia" label="Sound &amp; Video">
+				<item label="Audacious">
+					<action name="Execute">
+						<execute>audacious</execute>
+					</action>
+				</item>
+				<item label="Clementine">
+					<action name="Execute">
+						<execute>clementine</execute>
+					</action>
+				</item>
+				<item label="Kdenlive">
+					<action name="Execute">
+						<execute>kdenlive</execute>
+					</action>
+				</item>
+				<item label="Pavucontrol">
+					<action name="Execute">
+						<execute>pavucontrol</execute>
+					</action>
+				</item>
+				<item label="Spotify">
+					<action name="Execute">
+						<execute>spotify</execute>
+					</action>
+				</item>
+				<item label="SMPlayer">
+					<action name="Execute">
+						<execute>smplayer</execute>
+					</action>
+				</item>
+				<item label="SSR">
+					<action name="Execute">
+						<execute>simplescreenrecorder</execute>
+					</action>
+				</item>
+				<item label="Popcorntime">
+					<action name="Execute">
+						<execute>popcorntime</execute>
+					</action>
+				</item>
+				<item label="Porntime">
+					<action name="Execute">
+						<execute>porntime</execute>
+					</action>
+				</item>
+			</menu>
+			<menu id="systemtools" label="System Tools">
+				<item label="Tint2 Conf">
+					<action name="Execute">
+						<execute>tint2conf</execute>
+					</action>
+				</item>
+				<separator/>
+				<item label="Edit autostart">
+					<action name="Execute">
+						<execute>geany ~/.config/openbox/autostart</execute>
+					</action>
+				</item>
+				<item label="Edit menu.xml">
+					<action name="Execute">
+						<execute>geany ~/.config/openbox/menu.xml</execute>
+					</action>
+				</item>
+				<item label="Edit rc.xml">
+					<action name="Execute">
+						<execute>geany ~/.config/openbox/rc.xml</execute>
+					</action>
+				</item>
+				<separator label="Openbox Configuration"/>
+				<item label="ObConf">
+					<action name="Execute">
+						<execute>obconf</execute>
+					</action>
+				</item>
+				<item label="ObKey">
+					<action name="Execute">
+						<execute>obkey</execute>
+					</action>
+				</item>
+				<item label="ObMenu">
+					<action name="Execute">
+						<execute>obmenu</execute>
+					</action>
+				</item>
+				<separator/>
+				<item label="Appearance">
+					<action name="Execute">
+						<execute>lxappearance</execute>
+					</action>
+				</item>
+			</menu>
+		</menu>
+		<menu id="system" label="System">
+			<menu id="vbox" label="VirtualBox">
+				<item label="VirtualBox">
+					<action name="Execute">
+						<execute>virtualbox</execute>
+					</action>
+				</item>
+				<separator/>
+				<item label="FreeBSD">
+					<action name="Execute">
+						<execute>virtualbox --startvm FreeBSD</execute>
+					</action>
+				</item>
+				<item label="Funtoo">
+					<action name="Execute">
+						<execute>virtualbox --startvm Funtoo</execute>
+					</action>
+				</item>
+			</menu>
+			<menu id="arch" label="Arch">
+				<item label="/etc/pacman.conf">
+					<action name="Execute">
+						<execute>urxvt -e su -m root -c &quot;vim /etc/pacman.conf&quot;</execute>
+					</action>
+				</item>
+				<item label="/etc/makepkg.conf">
+					<action name="Execute">
+						<execute>urxvt -e su -m root -c &quot;vim /etc/makepkg.conf&quot;</execute>
+					</action>
+				</item>
+			</menu>
+			<menu id="freebsd" label="FreeBSD">
+				<item label="/boot/loader.conf">
+					<action name="Execute">
+						<execute>urxvt -e su -m root -c &quot;vim /boot/loader.conf&quot;</execute>
+					</action>
+				</item>
+				<item label="/etc/rc.conf">
+					<action name="Execute">
+						<execute>urxvt -e su -m root -c &quot;vim /etc/rc.conf&quot;</execute>
+					</action>
+				</item>
+				<item label="/etc/sysctl.conf">
+					<action name="Execute">
+						<execute>urxvt -e su -m root -c &quot;vim /etc/sysctl.conf&quot;</execute>
+					</action>
+				</item>
+				<item label="/etc/make.conf">
+					<action name="Execute">
+						<execute>urxvt -e su -m root -c &quot;vim /etc/make.conf&quot;</execute>
+					</action>
+				</item>
+				<item label="/etc/fstab">
+					<action name="Execute">
+						<execute>urxvt -e su -m root -c &quot;vim /etc/fstab&quot;</execute>
+					</action>
+				</item>
+			</menu>
+			<menu id="funtoo" label="Funtoo">
+				<item label="/etc/boot.conf">
+					<action name="Execute">
+						<execute>urxvt -e su -m root -c &quot;vim /etc/boot.conf&quot;</execute>
+					</action>
+				</item>
+				<item label="/etc/portage/make.conf">
+					<action name="Execute">
+						<execute>urxvt -e su -m root -c &quot;vim /etc/portage/make.conf&quot;</execute>
+					</action>
+				</item>
+			</menu>
+		</menu>
+		<separator/>
+		<menu id="exit" label="Exit">
+			<item label="Exit">
+				<action name="Exit"/>
+			</item>
+			<item label="Reboot">
+				<action name="Execute">
+					<execute>systemctl reboot now</execute>
+				</action>
+			</item>
+			<item label="Poweroff">
+				<action name="Execute">
+					<execute>systemctl poweroff</execute>
+				</action>
+			</item>
+		</menu>
+		<item label="Reconfigure">
+			<action name="Reconfigure"/>
+		</item>
+	</menu>
+</openbox_menu>

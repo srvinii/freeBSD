@@ -1,0 +1,15 @@
+#button_offset=-4
+#button_spacing=-4
+full_width_title=true
+#title_horizontal_offset=-3
+#title_vertical_offset_active=0
+#title_vertical_offset_inactive=0
+#title_shadow_active=true
+#button_layout=|HMC
+active_text_color=#1d1d1d
+inactive_text_color=#1d1d1d
+#active_text_shadow_color=##ADADAD
+shadow_delta_height=0
+shadow_delta_width=0
+shadow_delta_x=0
+shadow_delta_y=0

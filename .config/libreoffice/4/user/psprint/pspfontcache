@@ -1,0 +1,728 @@
+LibreOffice PspFontCacheFile format 6
+FontCacheDirectory:1468483017:/usr/local/lib/libreoffice/share/fonts/truetype
+File:opens___.ttf
+2;1
+OpenSymbol
+0;OpenSymbol;0;5;5;2;65535;799;200;-1;0;1262;999;1262;999;0;0;0;8;Regular
+
+FontCacheDirectory:1468482991:/usr/local/share/fonts/LinLibertineG
+File:LinLibertine_RB_G.ttf
+2;1
+Linux Libertine G
+0;LinuxLibertineGB;0;8;5;2;65535;894;246;140;0;7252;1140;7252;1140;0;0;0;0;Bold
+
+File:LinLibertine_RZ_G.ttf
+2;1
+Linux Libertine G
+0;LinuxLibertineGZ;0;7;5;2;65535;894;246;140;0;6615;1140;6615;1140;0;0;0;0;Semibold
+
+File:LinLibertine_RZI_G.ttf
+2;1
+Linux Libertine G
+0;LinuxLibertineGZI;2;7;5;2;65535;894;246;140;0;6618;1140;6618;1140;0;0;0;0;Semibold Italic
+
+File:LinLibertine_RI_G.ttf
+2;1
+Linux Libertine G
+0;LinuxLibertineGI;2;5;5;2;65535;894;246;140;0;6804;1140;6804;1140;0;0;0;0;Italic
+
+File:LinLibertine_RBI_G.ttf
+2;1
+Linux Libertine G
+0;LinuxLibertineGBI;2;8;5;2;65535;894;246;140;0;6804;1140;6804;1140;0;0;0;0;Bold Italic
+
+File:LinLibertine_DR_G.ttf
+2;1
+Linux Libertine Display G
+0;LinuxLibertineDG;0;5;5;2;65535;894;246;140;0;7252;1140;7252;1140;0;0;0;0;Regular
+
+File:LinBiolinum_RI_G.ttf
+2;1
+Linux Biolinum G
+0;LinuxBiolinumGI;2;5;5;2;65535;894;246;140;0;7329;1140;7329;1140;0;0;0;0;Italic
+
+File:LinBiolinum_R_G.ttf
+2;1
+Linux Biolinum G
+0;LinuxBiolinumG;0;5;5;2;65535;894;246;140;0;7252;1140;7252;1140;0;0;0;0;Regular
+
+File:LinLibertine_R_G.ttf
+2;1
+Linux Libertine G
+0;LinuxLibertineG;0;5;5;2;65535;894;246;140;0;7252;1140;7252;1140;0;0;0;0;Regular
+
+File:LinBiolinum_RB_G.ttf
+2;1
+Linux Biolinum G
+0;LinuxBiolinumGB;0;8;5;2;65535;894;246;140;0;7252;1140;7252;1140;0;0;0;0;Bold
+
+FontCacheDirectory:1468482982:/usr/local/share/fonts/Liberation
+File:LiberationSerif-Regular.ttf
+2;1
+Liberation Serif
+0;LiberationSerif;0;5;5;2;65535;891;216;107;0;1821;1107;1821;1107;0;0;0;0;Regular
+
+File:LiberationMono-Regular.ttf
+2;1
+Liberation Mono
+0;LiberationMono;0;5;5;1;65535;832;300;132;0;1223;1132;1223;1132;0;0;0;0;Regular
+
+File:LiberationSans-Italic.ttf
+2;1
+Liberation Sans
+0;LiberationSans-Italic;2;5;5;2;65535;905;211;116;0;2024;1116;2024;1116;0;0;0;0;Italic
+
+File:LiberationSerif-BoldItalic.ttf
+2;1
+Liberation Serif
+0;LiberationSerif-BoldItalic;2;8;5;2;65535;891;216;107;0;1850;1107;1850;1107;0;0;0;0;Bold Italic
+
+File:LiberationSerif-Bold.ttf
+2;1
+Liberation Serif
+0;LiberationSerif-Bold;0;8;5;2;65535;891;216;107;0;1887;1107;1887;1107;0;0;0;0;Bold
+
+File:LiberationSerif-Italic.ttf
+2;1
+Liberation Serif
+0;LiberationSerif-Italic;2;5;5;2;65535;891;216;107;0;1829;1107;1829;1107;0;0;0;0;Italic
+
+File:LiberationMono-Italic.ttf
+2;1
+Liberation Mono
+0;LiberationMono-Italic;2;5;5;1;65535;832;300;132;0;1304;1132;1304;1132;0;0;0;0;Italic
+
+File:LiberationSans-BoldItalic.ttf
+2;1
+Liberation Sans
+0;LiberationSans-BoldItalic;2;8;5;2;65535;905;211;116;0;1834;1116;1834;1116;0;0;0;0;Bold Italic
+
+File:LiberationSans-Regular.ttf
+2;1
+Liberation Sans
+0;LiberationSans;0;5;5;2;65535;905;211;116;0;1844;1116;1844;1116;0;0;0;0;Regular
+
+File:LiberationSans-Bold.ttf
+2;1
+Liberation Sans
+0;LiberationSans-Bold;0;8;5;2;65535;905;211;116;0;1785;1116;1785;1116;0;0;0;0;Bold
+
+File:LiberationMono-BoldItalic.ttf
+2;1
+Liberation Mono
+0;LiberationMono-BoldItalic;2;8;5;1;65535;832;300;132;0;1272;1132;1272;1132;0;0;0;0;Bold Italic
+
+File:LiberationMono-Bold.ttf
+2;1
+Liberation Mono
+0;LiberationMono-Bold;0;8;5;1;65535;832;300;132;0;1177;1132;1177;1132;0;0;0;0;Bold
+
+FontCacheDirectory:1468547335:/home/vinii/.fonts
+File:UbuntuMono-RI.ttf
+2;1
+Ubuntu Mono
+0;UbuntuMono-Italic;2;5;5;1;65535;830;170;150;0;890;1000;890;1000;0;0;0;0;Italic
+
+File:Ubuntu-C.ttf
+2;1
+Ubuntu Condensed
+0;UbuntuCondensed-Regular;0;5;5;2;65535;932;189;121;0;1442;1121;1442;1121;0;0;0;0;Regular
+
+File:Ubuntu-LI.ttf
+2;1
+Ubuntu Light;Ubuntu
+0;Ubuntu-LightItalic;2;3;5;2;65535;932;189;121;0;3731;1121;3731;1121;0;0;0;0;Light Italic
+
+File:Ubuntu-B.ttf
+2;1
+Ubuntu
+0;Ubuntu-Bold;0;8;5;2;65535;932;189;121;0;3645;1121;3645;1121;0;0;0;0;Bold
+
+File:UbuntuMono-BI.ttf
+2;1
+Ubuntu Mono
+0;UbuntuMono-BoldItalic;2;8;5;1;65535;830;170;150;0;976;1000;976;1000;0;0;0;0;Bold Italic
+
+File:Ubuntu-M.ttf
+2;1
+Ubuntu Light;Ubuntu
+0;Ubuntu-Medium;0;6;5;2;65535;932;189;121;0;4609;1121;4609;1121;0;0;0;0;Medium
+
+File:Ubuntu-R.ttf
+2;1
+Ubuntu
+0;Ubuntu;0;5;5;2;65535;932;189;121;0;3647;1121;3647;1121;0;0;0;0;Regular
+
+File:UbuntuMono-B.ttf
+2;1
+Ubuntu Mono
+0;UbuntuMono-Bold;0;8;5;1;65535;830;170;150;0;1051;1000;1051;1000;0;0;0;0;Bold
+
+File:Ubuntu-L.ttf
+2;1
+Ubuntu Light;Ubuntu
+0;Ubuntu-Light;0;3;5;2;65535;932;189;121;0;3678;1121;3678;1121;0;0;0;0;Light
+
+File:Ubuntu-BI.ttf
+2;1
+Ubuntu
+0;Ubuntu-BoldItalic;2;8;5;2;65535;932;189;121;0;3774;1121;3774;1121;0;0;0;0;Bold Italic
+
+File:UbuntuMono-R.ttf
+2;1
+Ubuntu Mono
+0;UbuntuMono-Regular;0;5;5;1;65535;830;170;150;0;981;1000;981;1000;0;0;0;0;Regular
+
+File:Ubuntu-MI.ttf
+2;1
+Ubuntu Light;Ubuntu
+0;Ubuntu-MediumItalic;2;6;5;2;65535;932;189;121;0;3759;1121;3759;1121;0;0;0;0;Medium Italic
+
+File:Ubuntu-RI.ttf
+2;1
+Ubuntu
+0;Ubuntu-Italic;2;5;5;2;65535;932;189;121;0;3752;1121;3752;1121;0;0;0;0;Italic
+
+File:Inconsolata-Bold.ttf
+2;1
+Inconsolata
+0;Inconsolata-Bold;0;8;5;1;65535;858;189;47;0;529;1047;529;1047;0;0;0;0;Bold
+
+File:Inconsolata-Regular.ttf
+2;1
+Inconsolata
+0;Inconsolata-Regular;0;5;5;1;65535;859;190;49;0;509;1049;509;1049;0;0;0;8;Regular
+
+FontCacheDirectory:1468482237:/usr/local/share/fonts/TTF
+File:luxirb.ttf
+2;1
+Luxi Serif
+0;LuxiSerif-Bold;0;8;5;2;65535;958;210;168;0;1211;1168;1211;1168;0;0;0;0;Bold
+
+File:luxirbi.ttf
+2;1
+Luxi Serif
+0;LuxiSerif-BoldOblique;1;8;5;2;65535;958;210;168;0;1358;1168;1358;1168;0;0;0;0;Bold Oblique
+
+File:luxirr.ttf
+2;1
+Luxi Serif
+0;LuxiSerif;0;5;5;2;65535;944;210;154;0;1186;1154;1186;1154;0;0;0;0;Regular
+
+File:luxisri.ttf
+2;1
+Luxi Sans
+0;LuxiSans-Oblique;1;5;5;2;65535;944;210;154;0;1318;1154;1318;1154;0;0;0;0;Oblique
+
+File:luxisb.ttf
+2;1
+Luxi Sans
+0;LuxiSans-Bold;0;8;5;2;65535;952;210;162;0;1212;1162;1212;1162;0;0;0;0;Bold
+
+File:luxisr.ttf
+2;1
+Luxi Sans
+0;LuxiSans;0;5;5;2;65535;944;210;154;0;1203;1154;1203;1154;0;0;0;0;Regular
+
+File:luxirri.ttf
+2;1
+Luxi Serif
+0;LuxiSerif-Oblique;1;5;5;2;65535;944;210;154;0;1295;1154;1295;1154;0;0;0;8;Oblique
+
+File:luxisbi.ttf
+2;1
+Luxi Sans
+0;LuxiSans-BoldOblique;1;8;5;2;65535;952;210;162;0;1324;1162;1324;1162;0;0;0;0;Bold Oblique
+
+File:luximr.ttf
+2;1
+Luxi Mono
+0;LuxiMono;0;5;5;1;65535;944;210;154;0;600;1154;600;1154;0;0;0;0;Regular
+
+File:luximbi.ttf
+2;1
+Luxi Mono
+0;LuxiMono-BoldOblique;1;8;5;1;65535;952;210;162;0;791;1162;791;1162;0;0;0;0;Bold Oblique
+
+File:luximb.ttf
+2;1
+Luxi Mono
+0;LuxiMono-Bold;0;8;5;1;65535;952;210;162;0;713;1162;713;1162;0;0;0;0;Bold
+
+File:luximri.ttf
+2;1
+Luxi Mono
+0;LuxiMono-Oblique;1;5;5;1;65535;944;210;154;0;771;1154;771;1154;0;0;0;0;Oblique
+
+File:GohaTibebZemen.ttf
+2;1
+Goha-Tibeb Zemen
+0;GohaTibebZemen;0;6;5;2;65535;802;189;-9;0;1223;991;1223;991;0;0;0;0;Regular
+
+FontCacheDirectory:1468482988:/usr/local/share/fonts/GentiumBasic
+File:GenBkBasB.ttf
+2;1
+Gentium Book Basic
+0;GentiumBookBasic-Bold;0;8;5;2;65535;874;283;157;0;1579;1157;1579;1157;0;0;0;0;Bold
+
+File:GenBkBasBI.ttf
+2;1
+Gentium Book Basic
+0;GentiumBookBasic-BoldItalic;2;8;5;2;65535;874;283;157;0;1445;1157;1445;1157;0;0;0;0;Bold Italic
+
+File:GenBkBasI.ttf
+2;1
+Gentium Book Basic
+0;GentiumBookBasic-Italic;2;5;5;2;65535;874;283;157;0;1330;1157;1330;1157;0;0;0;0;Italic
+
+File:GenBasB.ttf
+2;1
+Gentium Basic
+0;GentiumBasic-Bold;0;8;5;2;65535;874;283;157;0;1549;1157;1549;1157;0;0;0;0;Bold
+
+File:GenBasBI.ttf
+2;1
+Gentium Basic
+0;GentiumBasic-BoldItalic;2;8;5;2;65535;874;283;157;0;1407;1157;1407;1157;0;0;0;0;Bold Italic
+
+File:GenBasI.ttf
+2;1
+Gentium Basic
+0;GentiumBasic-Italic;2;5;5;2;65535;874;283;157;0;1292;1157;1292;1157;0;0;0;0;Italic
+
+File:GenBkBasR.ttf
+2;1
+Gentium Book Basic
+0;GentiumBookBasic;0;5;5;2;65535;874;283;157;0;1501;1157;1501;1157;0;0;0;0;Regular
+
+File:GenBasR.ttf
+2;1
+Gentium Basic
+0;GentiumBasic;0;5;5;2;65535;874;283;157;0;1477;1157;1477;1157;0;0;0;0;Regular
+
+FontCacheDirectory:1468482237:/usr/local/share/fonts/OTF
+File:SyrCOMUrhoyBold.otf
+2;1
+Serto Urhoy
+0;SertoUrhoyBold;0;8;5;2;65535;761;360;121;0;1170;1121;1170;1121;0;0;0;12;Bold
+
+File:SyrCOMUrhoy.otf
+2;1
+Serto Urhoy
+0;SertoUrhoy;0;5;5;2;65535;761;360;121;0;1158;1121;1158;1121;0;0;0;12;Regular
+
+File:SyrCOMMardin.otf
+2;1
+Serto Mardin
+0;SertoMardin;0;5;5;2;65535;761;316;77;0;1146;1077;1146;1077;0;0;0;12;Regular
+
+File:SyrCOMMardinBold.otf
+2;1
+Serto Mardin
+0;SertoMardinBold;0;8;5;2;65535;761;316;77;0;1168;1077;1168;1077;0;0;0;12;Bold
+
+File:SyrCOMMalankara.otf
+2;1
+Serto Malankara
+0;SertoMalankara;0;5;5;2;65535;761;355;116;0;1009;1116;1009;1116;0;0;0;12;Regular
+
+File:SyrCOMKharput.otf
+2;1
+Serto Kharput
+0;SertoKharput;0;5;5;2;65535;761;328;89;0;1132;1089;1132;1089;0;0;0;12;Regular
+
+File:SyrCOMJerusalemItalic.otf
+2;1
+Serto Jerusalem
+0;SertoJerusalemItalic;2;5;5;2;65535;761;316;77;0;1353;1077;1353;1077;0;0;0;12;Italic
+
+File:SyrCOMBatnan.otf
+2;1
+Serto Batnan
+0;SertoBatnan;0;5;5;2;65535;761;316;77;0;1141;1077;1141;1077;0;0;0;12;Regular
+
+File:SyrCOMJerusalem.otf
+2;1
+Serto Jerusalem
+0;SertoJerusalem;0;5;5;2;65535;761;316;77;0;1180;1077;1180;1077;0;0;0;12;Regular
+
+File:SyrCOMBatnanBold.otf
+2;1
+Serto Batnan
+0;SertoBatnanBold;0;8;5;2;65535;761;316;77;0;1243;1077;1243;1077;0;0;0;12;Bold
+
+File:SyrCOMTurAbdin.otf
+2;1
+Estrangelo TurAbdin
+0;EstrangeloTurAbdin;0;5;5;2;65535;761;316;77;0;1020;1077;1020;1077;0;0;0;12;Regular
+
+File:GohaTibebZemen.otf
+2;1
+Goha-Tibeb Zemen
+0;GohaTibebZemen;0;6;5;2;65535;802;189;-9;0;1212;991;1212;991;0;0;0;65536;Regular
+
+File:SyrCOMQenNeshrin.otf
+2;1
+Estrangelo Quenneshrin
+0;EstrangeloQuenneshrin;0;5;5;2;65535;761;349;110;0;1000;1110;1000;1110;0;0;0;12;Regular
+
+File:SyrCOMJerusalemBold.otf
+2;1
+Serto Jerusalem
+0;SertoJerusalemBold;0;8;5;2;65535;761;316;77;0;1255;1077;1255;1077;0;0;0;12;Bold
+
+File:SyrCOMNisibinOutline.otf
+2;1
+Estrangelo Nisibin Outline
+0;EstrangeloNisibinOutline;0;5;5;2;65535;781;316;97;0;1010;1097;1010;1097;0;0;0;12;Regular
+
+File:SyrCOMNisibin.otf
+2;1
+Estrangelo Nisibin
+0;EstrangeloNisibin;0;5;5;2;65535;761;316;77;0;1000;1077;1000;1077;0;0;0;12;Regular
+
+File:SyrCOMTalada.otf
+2;1
+Estrangelo Talada
+0;EstrangeloTalada;0;5;5;2;65535;761;316;77;0;1795;1077;1795;1077;0;0;0;12;Regular
+
+File:SyrCOMEdessa.otf
+2;1
+Estrangelo Edessa
+0;EstrangeloEdessa;0;5;5;2;65535;700;299;-1;0;1321;999;1321;999;0;0;0;0;Regular
+
+File:SyrCOMJerusalemOutline.otf
+2;1
+Serto Jerusalem Outline
+0;SertoJerusalemOutline;0;5;5;2;65535;781;316;97;0;1275;1097;1275;1097;0;0;0;12;Regular
+
+File:SyrCOMMidyat.otf
+2;1
+Estrangelo Midyat
+0;EstrangeloMidyat;0;5;5;2;65535;761;316;77;0;1231;1077;1231;1077;0;0;0;12;Regular
+
+File:SyrCOMAntioch.otf
+2;1
+Estrangelo Antioch
+0;EstrangeloAntioch;0;5;5;2;65535;761;316;77;0;1374;1077;1374;1077;0;0;0;12;Regular
+
+File:SyrCOMCtesiphon.otf
+2;1
+East Syriac Ctesiphon
+0;EastSyriacCtesiphon;0;5;5;2;65535;761;323;84;0;1000;1084;1000;1084;0;0;0;12;Regular
+
+File:SyrCOMAdiabene.otf
+2;1
+East Syriac Adiabene
+0;EastSyriacAdiabene;0;5;5;2;65535;761;349;110;0;1000;1110;1000;1110;0;0;0;12;Regular
+
+FontCacheDirectory:1468482244:/usr/local/share/fonts/dejavu
+File:DejaVuSerifCondensed-Italic.ttf
+2;1
+DejaVu Serif Condensed
+0;DejaVuSerifCondensed-Italic;2;5;4;2;65535;928;235;163;0;2235;1163;2235;1163;0;0;0;0;Condensed Italic
+
+File:DejaVuSerifCondensed-Bold.ttf
+2;1
+DejaVu Serif Condensed
+0;DejaVuSerifCondensed-Bold;0;8;4;2;65535;938;235;173;0;2368;1173;2368;1173;0;0;0;0;Condensed Bold
+
+File:DejaVuSerif.ttf
+2;1
+DejaVu Serif
+0;DejaVuSerif;0;5;5;2;65535;928;235;163;0;2874;1163;2874;1163;0;0;0;0;Book
+
+File:DejaVuSerif-Italic.ttf
+2;1
+DejaVu Serif
+0;DejaVuSerif-Italic;2;5;5;2;65535;928;235;163;0;2483;1163;2483;1163;0;0;0;0;Italic
+
+File:DejaVuSerifCondensed-BoldItalic.ttf
+2;1
+DejaVu Serif Condensed
+0;DejaVuSerifCondensed-BoldItalic;2;8;4;2;65535;938;235;173;0;2393;1173;2393;1173;0;0;0;0;Condensed Bold Italic
+
+File:DejaVuSerif-BoldItalic.ttf
+2;1
+DejaVu Serif
+0;DejaVuSerif-BoldItalic;2;8;5;2;65535;938;235;173;0;2658;1173;2658;1173;0;0;0;0;Bold Italic
+
+File:DejaVuSerif-Bold.ttf
+2;1
+DejaVu Serif
+0;DejaVuSerif-Bold;0;8;5;2;65535;938;235;173;0;2630;1173;2630;1173;0;0;0;0;Bold
+
+File:DejaVuSans-BoldOblique.ttf
+2;1
+DejaVu Sans
+0;DejaVuSans-BoldOblique;1;8;5;2;65535;928;235;163;0;3064;1163;3064;1163;0;0;0;0;Bold Oblique
+
+File:DejaVuSansMono-Bold.ttf
+2;1
+DejaVu Sans Mono
+0;DejaVuSansMono-Bold;0;8;5;1;65535;928;235;163;0;1176;1163;1176;1163;0;0;0;0;Bold
+
+File:DejaVuSansCondensed.ttf
+2;1
+DejaVu Sans Condensed
+0;DejaVuSansCondensed;0;5;4;2;65535;928;235;163;1;2532;1163;2532;1163;0;0;0;0;Condensed
+
+File:DejaVuSansCondensed-Bold.ttf
+2;1
+DejaVu Sans Condensed
+0;DejaVuSansCondensed-Bold;0;8;4;2;65535;928;235;163;0;2739;1163;2739;1163;0;0;0;0;Condensed Bold
+
+File:DejaVuSansMono.ttf
+2;1
+DejaVu Sans Mono
+0;DejaVuSansMono;0;5;5;1;65535;928;235;163;0;1274;1163;1274;1163;0;0;0;0;Book
+
+File:DejaVuSansMono-BoldOblique.ttf
+2;1
+DejaVu Sans Mono
+0;DejaVuSansMono-BoldOblique;1;8;5;1;65535;928;235;163;0;1232;1163;1232;1163;0;0;0;0;Bold Oblique
+
+File:DejaVuSerifCondensed.ttf
+2;1
+DejaVu Serif Condensed
+0;DejaVuSerifCondensed;0;5;4;2;65535;928;235;163;0;2587;1163;2587;1163;0;0;0;0;Condensed
+
+File:DejaVuSansMono-Oblique.ttf
+2;1
+DejaVu Sans Mono
+0;DejaVuSansMono-Oblique;1;5;5;1;65535;928;235;163;0;1148;1163;1148;1163;0;0;0;0;Oblique
+
+File:DejaVuSans-Bold.ttf
+2;1
+DejaVu Sans
+0;DejaVuSans-Bold;0;8;5;2;65535;928;235;163;0;3044;1163;3044;1163;0;0;0;0;Bold
+
+File:DejaVuSans-ExtraLight.ttf
+2;1
+DejaVu Sans Light
+0;DejaVuSans-ExtraLight;0;2;5;2;65535;928;235;163;0;2391;1163;2391;1163;0;0;0;0;ExtraLight
+
+File:DejaVuSans-Oblique.ttf
+2;1
+DejaVu Sans
+0;DejaVuSans-Oblique;1;5;5;2;65535;928;235;163;0;2674;1163;2674;1163;0;0;0;0;Oblique
+
+File:DejaVuSans.ttf
+2;1
+DejaVu Sans
+0;DejaVuSans;0;5;5;2;65535;928;235;163;1;2813;1163;2813;1163;0;0;0;0;Book
+
+File:DejaVuSansCondensed-BoldOblique.ttf
+2;1
+DejaVu Sans Condensed
+0;DejaVuSansCondensed-BoldOblique;1;8;4;2;65535;928;235;163;0;2758;1163;2758;1163;0;0;0;0;Condensed Bold Oblique
+
+File:DejaVuSansCondensed-Oblique.ttf
+2;1
+DejaVu Sans Condensed
+0;DejaVuSansCondensed-Oblique;1;5;4;2;65535;928;235;163;0;2407;1163;2407;1163;0;0;0;0;Condensed Oblique
+
+FontCacheDirectory:1468482978:/usr/local/share/fonts/Carlito
+File:Carlito-BoldItalic.ttf
+2;1
+Carlito
+0;Carlito-BoldItalic;2;8;5;2;65535;952;268;220;0;1568;1220;1568;1220;0;0;0;0;Bold Italic
+
+File:Carlito-Bold.ttf
+2;1
+Carlito
+0;Carlito-Bold;0;8;5;2;65535;952;268;220;0;1665;1220;1665;1220;0;0;0;0;Bold
+
+File:Carlito-Italic.ttf
+2;1
+Carlito
+0;Carlito-Italic;2;5;5;2;65535;952;268;220;0;1536;1220;1536;1220;0;0;0;0;Italic
+
+File:Carlito-Regular.ttf
+2;1
+Carlito
+0;Carlito;0;5;5;2;65535;952;268;220;0;1636;1220;1636;1220;0;0;0;0;Regular
+
+FontCacheDirectory:1468482911:/usr/local/share/fonts/cantarell
+File:Cantarell-Regular.otf
+2;1
+Cantarell
+0;Cantarell-Regular;0;5;5;2;65535;964;293;257;0;1445;1257;1445;1257;0;0;0;65536;Regular
+
+File:Cantarell-Oblique.otf
+2;1
+Cantarell
+0;Cantarell-Oblique;1;5;5;2;65535;964;293;257;0;1478;1257;1478;1257;0;0;0;65536;Oblique
+
+File:Cantarell-BoldOblique.otf
+2;1
+Cantarell
+0;Cantarell-BoldOblique;1;8;5;2;65535;964;293;257;0;1697;1257;1697;1257;0;0;0;65536;BoldOblique
+
+File:Cantarell-Bold.otf
+2;1
+Cantarell
+0;Cantarell-Bold;0;8;5;2;65535;964;293;257;0;1645;1257;1645;1257;0;0;0;65536;Bold
+
+FontCacheDirectory:1468482994:/usr/local/share/fonts/Caladea
+File:Caladea-Italic.ttf
+2;1
+Caladea
+0;Caladea-Italic;2;5;5;2;65535;950;222;172;0;1350;1172;1350;1172;0;0;0;0;Italic
+
+File:Caladea-Regular.ttf
+2;1
+Caladea
+0;Caladea-Regular;0;5;5;2;65535;950;222;172;0;1322;1172;1322;1172;0;0;0;0;Regular
+
+File:Caladea-BoldItalic.ttf
+2;1
+Caladea
+0;Caladea-BoldItalic;2;8;5;2;65535;950;222;172;0;1467;1172;1467;1172;0;0;0;0;Bold Italic
+
+File:Caladea-Bold.ttf
+2;1
+Caladea
+0;Caladea-Bold;0;8;5;2;65535;950;222;172;0;1441;1172;1441;1172;0;0;0;0;Bold
+
+FontCacheDirectory:1468482288:/usr/local/share/fonts/Type1
+File:UTBI____.pfa
+1;1
+Utopia
+0;Utopia-BoldItalic;2;8;5;2;91;916;250;166;0;1297;692;1297;692;0;0;0;UTBI____.afm;Bold Italic
+
+File:UTB_____.pfa
+1;1
+Utopia
+0;Utopia-Bold;0;8;5;2;91;916;250;166;0;1249;692;1249;692;0;0;0;UTB_____.afm;Bold
+
+File:UTI_____.pfa
+1;1
+Utopia
+0;Utopia-Italic;2;5;5;2;91;890;250;140;0;1205;692;1205;692;0;0;0;UTI_____.afm;Italic
+
+File:l049013t.pfa
+1;1
+Luxi Serif
+0;LuxiSerif;0;5;5;2;65535;993;211;204;0;984;723;984;723;0;0;0;l049013t.afm;Regular
+
+File:l049033t.pfa
+1;1
+Luxi Serif
+0;LuxiSerif-Oblique;1;5;5;2;65535;993;211;204;0;1089;723;1089;723;0;0;0;l049033t.afm;Oblique
+
+File:l048036t.pfa
+1;1
+Luxi Sans
+0;LuxiSans-BoldOblique;1;8;5;2;65535;1012;211;223;0;1098;723;1098;723;0;0;0;l048036t.afm;Bold Oblique
+
+File:UTRG____.pfa
+1;1
+Utopia
+0;Utopia-Regular;0;5;5;2;91;890;250;140;0;1158;692;1158;692;0;0;0;UTRG____.afm;Regular
+
+File:l048013t.pfa
+1;1
+Luxi Sans
+0;LuxiSans;0;5;5;2;65535;993;211;204;0;988;723;988;723;0;0;0;l048013t.afm;Regular
+
+File:l047033t.pfa
+1;1
+Luxi Mono
+0;LuxiMono-Oblique;1;5;5;1;65535;993;211;204;0;757;723;757;723;0;0;0;l047033t.afm;Oblique
+
+File:l047016t.pfa
+1;1
+Luxi Mono
+0;LuxiMono-Bold;0;8;5;1;65535;1012;211;223;0;714;723;714;723;0;0;0;l047016t.afm;Bold
+
+File:c0632bt_.pfb
+1;1
+Bitstream Charter
+0;CharterBT-Bold;0;8;5;2;91;963;237;200;0;1263;672;1263;672;0;0;0;c0632bt_.afm;Bold
+
+File:c0419bt_.pfb
+1;1
+Courier 10 Pitch
+0;Courier10PitchBT-Roman;0;5;5;1;91;858;299;157;0;664;579;664;579;0;0;0;c0419bt_.afm;Regular
+
+File:l049036t.pfa
+1;1
+Luxi Serif
+0;LuxiSerif-BoldOblique;1;8;5;2;65535;1012;211;223;0;1139;723;1139;723;0;0;0;l049036t.afm;Bold Oblique
+
+File:c0633bt_.pfb
+1;1
+Bitstream Charter
+0;CharterBT-BoldItalic;2;8;5;2;91;972;237;209;0;1243;672;1243;672;0;0;0;c0633bt_.afm;Bold Italic
+
+File:l048033t.pfa
+1;1
+Luxi Sans
+0;LuxiSans-Oblique;1;5;5;2;65535;993;211;204;0;1100;723;1100;723;0;0;0;l048033t.afm;Oblique
+
+File:c0582bt_.pfb
+1;1
+Courier 10 Pitch
+0;Courier10PitchBT-Italic;2;5;5;1;91;858;299;157;0;664;579;664;579;0;0;0;c0582bt_.afm;Italic
+
+File:courb.pfa
+1;1
+Courier
+0;Courier-Bold;0;8;5;1;91;847;288;135;0;746;583;746;583;0;0;0;courb.afm;Bold
+
+File:c0611bt_.pfb
+1;1
+Courier 10 Pitch
+0;Courier10PitchBT-BoldItalic;2;8;5;1;91;875;310;185;0;665;579;665;579;0;0;0;c0611bt_.afm;Bold Italic
+
+File:couri.pfa
+1;1
+Courier
+0;Courier-Italic;2;5;5;1;91;841;288;129;0;800;563;800;563;0;0;0;couri.afm;Italic
+
+File:c0583bt_.pfb
+1;1
+Courier 10 Pitch
+0;Courier10PitchBT-Bold;0;8;5;1;91;875;310;185;0;665;579;665;579;0;0;0;c0583bt_.afm;Bold
+
+File:courbi.pfa
+1;1
+Courier
+0;Courier-BoldItalic;2;8;5;1;91;839;288;127;0;860;583;860;583;0;0;0;courbi.afm;Bold Italic
+
+File:l048016t.pfa
+1;1
+Luxi Sans
+0;LuxiSans-Bold;0;8;5;2;65535;1012;211;223;0;989;723;989;723;0;0;0;l048016t.afm;Bold
+
+File:l047013t.pfa
+1;1
+Luxi Mono
+0;LuxiMono;0;5;5;1;65535;993;211;204;0;600;723;600;723;0;0;0;l047013t.afm;Regular
+
+File:cour.pfa
+1;1
+Courier
+0;Courier;0;5;5;1;91;841;288;129;0;684;563;684;563;0;0;0;cour.afm;Regular
+
+File:l049016t.pfa
+1;1
+Luxi Serif
+0;LuxiSerif-Bold;0;8;5;2;65535;1012;211;223;0;994;723;994;723;0;0;0;l049016t.afm;Bold
+
+File:l047036t.pfa
+1;1
+Luxi Mono
+0;LuxiMono-BoldOblique;1;8;5;1;65535;1012;211;223;0;755;723;755;723;0;0;0;l047036t.afm;Bold Oblique
+
+File:c0649bt_.pfb
+1;1
+Bitstream Charter
+0;CharterBT-Italic;2;5;5;2;91;980;237;217;0;1175;672;1175;672;0;0;0;c0649bt_.afm;Italic
+
+File:c0648bt_.pfb
+1;1
+Bitstream Charter
+0;CharterBT-Roman;0;5;5;2;91;963;237;200;0;1194;672;1194;672;0;0;0;c0648bt_.afm;Regular
+
