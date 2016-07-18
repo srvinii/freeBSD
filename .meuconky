@@ -1,0 +1,48 @@
+background yes
+double_buffer yes
+
+alignment top_left
+
+border_width 1
+cpu_avg_samples 2
+default_color white
+default_outline_color white
+default_shade_color white
+draw_borders no
+draw_graph_borders yes
+draw_outline no
+draw_shades no
+
+gap_x 4
+gap_y 730
+net_avg_samples 2
+no_buffers yes
+out_to_console no
+out_to_stderr no
+extra_newline no
+
+own_window yes
+own_window_type normal
+own_window_transparent yes
+own_window_colour 000000
+own_window_argb_visual no
+own_window_argb_value 0
+own_window_hints undecorated,below,sticky,skip_taskbar,skip_pager
+
+minimum_size 170 0
+stippled_borders 0
+update_interval 2.0
+uppercase no
+use_spacer none
+
+show_graph_scale no
+show_graph_range no
+
+use_xft yes
+xftalpha 0.1
+xftfont Inconsolata:size=10
+TEXT
+${color aaaaaa}Processes: ${color eeeeee}$processes ${color dd0000}|${color}	\
+${color aaaaaa}CPU Usage: ${color eeeeee}${cpu cpu0}% ${color dd0000}|${color}	\
+${color aaaaaa}Physical Memory: ${color eeeeee}$mem ${color dd0000}|${color}	\
+${color aaaaaa}Uptime: ${color eeeeee}$uptime
