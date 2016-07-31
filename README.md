@@ -4,9 +4,10 @@
 
 ### This file contains:
 
-* .config
-* .fonts
-* .themes
-* .bashrc
-* .conkynet
-* .meuconky
+* ~/.config
+* ~/.fonts
+* ~/.themes
+* ~/.bashrc
+* ~/.conkynet
+* ~/.meuconky
+* ~/.vimrc
